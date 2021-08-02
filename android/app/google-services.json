@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873867171270",
+    "project_id": "uas-pmob-b35b9",
+    "storage_bucket": "uas-pmob-b35b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873867171270:android:438e574cf74f350e640ec7",
+        "android_client_info": {
+          "package_name": "com.alie.uaspemob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873867171270-9vguomhp76vs4sn25ro860l79i3ghkbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLgkQi7j5FocFkt2__QEM-mS0bgtEMUi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873867171270-9vguomhp76vs4sn25ro860l79i3ghkbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
